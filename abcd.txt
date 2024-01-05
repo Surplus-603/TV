@@ -1,0 +1,26 @@
+香港之声,#genre#
+无线体育财经,http://198.16.100.90:8278/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&ct=19254&tsum=77d4c2db4fa7537d7dd3eb19f933526d
+无线体育财经2,http://live.cooltv.top/tv/tvb.php?id=2&hq
+宝典,https://vdm6-ali.gdtuohang.com/live/h6-2.flv
+香港九龙,https://ccc.ueedpxu.cn/live/629.m3u8
+49图库-快(香),https://yyy.mmzj.net/lives/123678.flv
+49KJ,https://vdm6-cnts.onmve.com/live/h6-2.flv
+ontv 東網視頻,https://streamw-azs-51.on.cc/src/smil:remote1_hd.smil/playlist.m3u8
+ontv 東網視頻2,https://streamw-azs-51.on.cc/src/smil:remote1_hd.smil/chunklist_b332000.m3u8
+澳门影院,#genre#
+老澳,https://vdm6-cnts.onmve.com/live/a6-2.flv
+49图库(新澳),https://play666.macau-lhc.live/live/mosixmark.flv
+现场,https://vdm6-ali.kavimmensucat.com/live/2032-2.flv
+澳门,https://play888.00853lhc.live/live/mosixmark.flv
+澳门2,artc://aa.jmied.com/aa/aa?auth_key=1661059701-0-0-f73c3e2a6695ee93c7a9757ecc052066
+幸运彩,#genre#
+中国福利票,https://tv.cwl.gov.cn/channels/fckj/kjzb/m3u8:sd
+中国福利票2,https://plsina00.live.weibo.com/alicdn/4979170035894551_wb720avc.m3u8?pgid=50000685
+中国体彩,https://livevideopull.lottery.gov.cn/live/lottery_PAL.m3u8
+中国体彩2,https://plsina00.live.weibo.com/alicdn/4979170400799414_wb720avc.flv?pgid=50000686
+台湾,https://vdm6-ali.wujiekeji1.com/live/h6-2.flv
+柬埔寨,https://pro.cococut.net/member/checkout/
+新加坡,https://vdm6-ali.kavimmensucat.com/live/2032-2.flv
+百家饭,https://vd1-bp.mildun.com/live/scene1_2.flv
+家庭影院定制,#genre#
+
